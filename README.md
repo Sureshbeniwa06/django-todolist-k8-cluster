@@ -96,10 +96,10 @@ A robust, scalable Django Todo List application designed for deployment on Kuber
 
  ## 🌐 Contact
  
-      - Suresh Beniwal
+   - Suresh Beniwal
 
-      - GitHub: @Sureshbeniwa06
-      - Email: beniwalsuresh117@gmail.com
+   - GitHub: @Sureshbeniwa06
+   - Email: beniwalsuresh117@gmail.com
 
 
 
