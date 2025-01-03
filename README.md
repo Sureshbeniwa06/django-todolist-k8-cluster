@@ -5,7 +5,6 @@
 A robust, scalable Django Todo List application designed for deployment on Kubernetes, showcasing modern cloud-native application architecture and containerization best practices.
 
 # 🛠 Technologies Stack
-
     . Backend: Django
     . Containerization: Docker
     . Orchestration: Kubernetes
@@ -13,7 +12,6 @@ A robust, scalable Django Todo List application designed for deployment on Kuber
     . CI/CD: GitHub Actions
 
 # 🌟 Key Features
-
     . User authentication
     . CRUD todo list operations
     . Kubernetes deployment manifests
