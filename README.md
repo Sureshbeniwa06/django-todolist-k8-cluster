@@ -51,6 +51,24 @@ A robust, scalable Django Todo List application designed for deployment on Kuber
     # Run Docker Container
       docker run -p 8000:8000 todolist-app:latest
 
+  #  ☸️ Kubernetes Deployment
+     # Apply Kubernetes Manifests
+       kubectl apply -f k8s/deployment.yaml
+       kubectl apply -f k8s/service.yaml
+       
+
+     # Check Deployment Status
+       kubectl get deployments
+       kubectl get pods
+       kubectl get services
+
+     # minikube start
+       minikube service list
+       minikube service django-service
+
+     # minikube dashboard  
+
+
 
 
 
