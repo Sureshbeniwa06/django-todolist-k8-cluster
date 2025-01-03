@@ -12,18 +12,18 @@ A robust, scalable Django Todo List application designed for deployment on Kuber
 -CI/CD: GitHub Actions
 
 ## 🌟 Key Features
-    . User authentication
-    . CRUD todo list operations
-    . Kubernetes deployment manifests
-    . Scalable microservices architecture
-    . Production-ready configuration
+ - User authentication
+ - CRUD todo list operations
+ - Kubernetes deployment manifests
+ - Scalable microservices architecture
+- Production-ready configuration
 
  ## 🔧 Prerequisites (Software Requirements)
-    . Docker (v20.10+)
-    . Kubernetes Cluster (minikube/kind/GKE)
-    . kubectl (v1.21+)
-    . Python 3.8+
-    . pip
+  - Docker (v20.10+)
+  - Kubernetes Cluster (minikube/kind/GKE)
+  - kubectl (v1.21+)
+  - Python 3.8+
+  -  pip
 
 
   #  Local Development Setup
@@ -81,22 +81,25 @@ A robust, scalable Django Todo List application designed for deployment on Kuber
     └── README.md
 
 ## 🤝 Contributing Guidelines
-    Fork the repository
-    Create a feature branch
-    Commit your changes
-    Push to the branch
-    Create a Pull Request
+
+ - Fork the repository
+ - Create a feature branch
+ - Commit your changes
+ - Push to the branch
+ - Create a Pull Request
 
  ## 📊 Performance Optimization
-    Implemented Django caching
-    Kubernetes horizontal pod autoscaling
-    Optimized database queries
+ 
+  -  Implemented Django caching
+  - Kubernetes horizontal pod autoscaling
+  - Optimized database queries
 
  ## 🌐 Contact
-       Suresh Beniwal
+ 
+      - Suresh Beniwal
 
-       GitHub: @Sureshbeniwa06
-       Email: beniwalsuresh117@gmail.com
+      - GitHub: @Sureshbeniwa06
+      - Email: beniwalsuresh117@gmail.com
 
 
 
