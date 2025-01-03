@@ -68,6 +68,19 @@ A robust, scalable Django Todo List application designed for deployment on Kuber
 
      # minikube dashboard  
 
+#  📦 Project Structure
+    django-todolist-k8-cluster/
+    │
+    ├── app/                              # Django application
+    ├── k8s/                              # Kubernetes manifests
+       ├── deployment.yaml
+       ├── service.yaml
+    │   
+    ├── Dockerfile                        # Docker configurations
+    ├── docker-compose up -d              # docker-compose yaml(configuration)
+    └── README.md
+
+
 
 
 
