@@ -26,5 +26,25 @@ A robust, scalable Django Todo List application designed for deployment on Kuber
     . pip
 
 
+  #  Local Development Setup
+    # Clone Repository
+      git clone https://github.com/Sureshbeniwa06/django-todolist-k8-cluster.git
+      cd django-todolist-k8-cluster
+
+    # Create Virtual Environment
+      python3 -m venv venv
+      source venv/bin/activate
+
+    # Install Dependencies
+      pip install -r requirements.txt
+
+    # Run Migrations
+      python manage.py migrate
+
+    # Start Development Server
+      python manage.py runserver
+
+
+
 
     
