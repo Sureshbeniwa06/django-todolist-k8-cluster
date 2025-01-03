@@ -18,8 +18,7 @@ A robust, scalable Django Todo List application designed for deployment on Kuber
     . Scalable microservices architecture
     . Production-ready configuration
 
- #    🔧 Prerequisites
-    Software Requirements
+ #    🔧 Prerequisites (Software Requirements)
 
    . Docker (v20.10+)
    . Kubernetes Cluster (minikube/kind/GKE)
