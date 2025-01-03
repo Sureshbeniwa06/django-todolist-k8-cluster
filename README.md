@@ -44,6 +44,14 @@ A robust, scalable Django Todo List application designed for deployment on Kuber
     # Start Development Server
       python manage.py runserver
 
+ #  🐳 Docker Build
+    # Build Docker Image
+      docker build -t todolist-app:latest .
+
+    # Run Docker Container
+      docker run -p 8000:8000 todolist-app:latest
+
+
 
 
 
