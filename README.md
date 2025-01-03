@@ -80,6 +80,19 @@ A robust, scalable Django Todo List application designed for deployment on Kuber
     ├── docker-compose up -d              # docker-compose yaml(configuration)
     └── README.md
 
+# 🤝 Contributing Guidelines
+    Fork the repository
+    Create a feature branch
+    Commit your changes
+    Push to the branch
+    Create a Pull Request
+
+ #  📊 Performance Optimization
+    Implemented Django caching
+    Kubernetes horizontal pod autoscaling
+    Optimized database queries
+  
+
 
 
 
