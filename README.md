@@ -9,7 +9,7 @@ A robust, scalable Django Todo List application designed for deployment on Kuber
 - Containerization: Docker
 - Orchestration: Kubernetes
 - Database: sql.lite
--CI/CD: GitHub Actions
+- CI/CD: GitHub Actions
 
 ## 🌟 Key Features
  - User authentication
