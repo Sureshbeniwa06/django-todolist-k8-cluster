@@ -1,24 +1,24 @@
-# Django Todo List Kubernetes Cluster 🚀
+## Django Todo List Kubernetes Cluster 🚀
 
-# 📌 Project Overview
+## 📌 Project Overview
 
 A robust, scalable Django Todo List application designed for deployment on Kubernetes, showcasing modern cloud-native application architecture and containerization best practices.
 
-# 🛠 Technologies Stack
+## 🛠 Technologies Stack
     . Backend: Django
     . Containerization: Docker
     . Orchestration: Kubernetes
     . Database: sql.lite
     . CI/CD: GitHub Actions
 
-# 🌟 Key Features
+## 🌟 Key Features
     . User authentication
     . CRUD todo list operations
     . Kubernetes deployment manifests
     . Scalable microservices architecture
     . Production-ready configuration
 
- # 🔧 Prerequisites (Software Requirements)
+ ## 🔧 Prerequisites (Software Requirements)
     . Docker (v20.10+)
     . Kubernetes Cluster (minikube/kind/GKE)
     . kubectl (v1.21+)
@@ -80,18 +80,24 @@ A robust, scalable Django Todo List application designed for deployment on Kuber
     ├── docker-compose up -d              # docker-compose yaml(configuration)
     └── README.md
 
-# 🤝 Contributing Guidelines
+## 🤝 Contributing Guidelines
     Fork the repository
     Create a feature branch
     Commit your changes
     Push to the branch
     Create a Pull Request
 
- #  📊 Performance Optimization
+ ## 📊 Performance Optimization
     Implemented Django caching
     Kubernetes horizontal pod autoscaling
     Optimized database queries
-  
+
+ ## 🌐 Contact
+       Suresh Beniwal
+
+       GitHub: @Sureshbeniwa06
+       Email: beniwalsuresh117@gmail.com
+
 
 
 
